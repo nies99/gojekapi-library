@@ -21,7 +21,7 @@
 ### Instalasi
 #### Native
 ```php
-require 'class.php';
+require 'gojekapi.class.php';
 
 $gojek = new Gojek();
 ```
